@@ -10,7 +10,8 @@ Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs fo
 A bubble chart that displays each sample
 <img width="872" alt="Screenshot 2023-06-13 at 9 05 42 PM" src="https://github.com/breeliu2/belly-button-challenge/assets/124847109/a1a06564-1f01-4ea8-ba1c-9250d4bedff7">
 
-On the left hand side is a display of an individual's demographic information. The plots will update when a new test subject is selected.
+On the left-hand side is a display of an individual's demographic information. The plots will update when a new test subject is selected.
+
 <img width="134" alt="Screenshot 2023-06-13 at 9 06 34 PM" src="https://github.com/breeliu2/belly-button-challenge/assets/124847109/ca8a2e1e-9375-424a-8855-7547b442c164">
 
 
