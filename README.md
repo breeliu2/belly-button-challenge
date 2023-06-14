@@ -14,7 +14,7 @@ On the left hand side is a display of an individual's demographic information. T
 <img width="134" alt="Screenshot 2023-06-13 at 9 06 34 PM" src="https://github.com/breeliu2/belly-button-challenge/assets/124847109/ca8a2e1e-9375-424a-8855-7547b442c164">
 
 Credits
-*Plotly 
-*Phind
+* Plotly 
+* Phind
 
 * The gauge chart is commented out as I could not get it to show up on the dashboard. :(
