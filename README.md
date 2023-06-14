@@ -17,4 +17,4 @@ Credits
 * Plotly 
 * Phind
 
-* The gauge chart is commented out as I could not get it to show up on the dashboard. :(
+- The gauge chart is commented out as I could not get it to show up on the dashboard. :(
