@@ -13,6 +13,7 @@ A bubble chart that displays each sample
 On the left hand side is a display of an individual's demographic information. The plots will update when a new test subject is selected.
 <img width="134" alt="Screenshot 2023-06-13 at 9 06 34 PM" src="https://github.com/breeliu2/belly-button-challenge/assets/124847109/ca8a2e1e-9375-424a-8855-7547b442c164">
 
+
 Credits
 * Plotly 
 * Phind
