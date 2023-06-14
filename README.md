@@ -5,6 +5,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 ## Interactive Dashboard
 Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
+
 <img width="323" alt="Screenshot 2023-06-13 at 9 04 56 PM" src="https://github.com/breeliu2/belly-button-challenge/assets/124847109/6fccda72-b667-4c55-94be-b4adff21c611">
 
 A bubble chart that displays each sample
